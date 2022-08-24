@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Bank Guru">
+
+	<listeners>
+		<listener class-name="commons.MethodListener" />
+		<listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+		
+	</listeners>
+	<test name="Run on FIREFOX UI">
+		<parameter name="browser" value="firefox_ui" />
+		<parameter name="url" value="https://demo.guru99.com/" />
+		<classes>
+			<class name="com.bankguru.user.Payment" />
+		</classes>
+	</test>
+
+</suite> 
