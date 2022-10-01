@@ -1,0 +1,82 @@
+[INFO ] [2022-10-01 17:45:45,499] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 17:45:47,373] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 17:45:50,038] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 17:45:50,646] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 17:45:50,889] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 17:45:53,288] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444213
+[INFO ] [2022-10-01 17:45:53,697] Pre-Condition-Step 06: enter to 'password' textbox with value:Egaryqu
+[INFO ] [2022-10-01 17:45:54,111] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 17:45:55,717] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 17:45:56,162]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 17:45:56,184] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 17:45:56,436] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 17:46:01,621]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:01,621] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 17:46:02,028] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 17:46:02,279] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 17:46:02,580] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 17:46:02,803] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 17:46:03,004] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 17:46:03,234] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 17:46:03,427] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 17:46:03,662] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 17:46:03,874] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 17:46:05,532] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 17:46:05,635]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:05,635] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 17:46:06,012] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 17:46:06,112]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:06,113] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 17:46:06,225]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:06,225] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 17:46:06,334]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:06,334] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 17:46:06,421]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:06,421] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 17:46:06,528]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:06,528] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 17:46:06,615]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:06,615] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 17:46:06,711]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:06,717] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 17:46:08,982] Edit Customer-Step 01: input To CustomerID textbox with value 28774
+[INFO ] [2022-10-01 17:46:09,218] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 17:46:10,702] Edit Customer-Step 01: input To Address textbox with value 145 Quynh Trang Hoang Mai
+[INFO ] [2022-10-01 17:46:11,093] Edit Customer-Step 01: input To City textbox with value Viet Tri
+[INFO ] [2022-10-01 17:46:11,410] Edit Customer-Step 01: input To State textbox with value PhanThuy
+[INFO ] [2022-10-01 17:46:11,686] Edit Customer-Step 01: input To Pin textbox with value 654321
+[INFO ] [2022-10-01 17:46:11,986] Edit Customer-Step 01: input To Mobile textbox with value 654321
+[INFO ] [2022-10-01 17:46:12,252] Edit Customer-Step 01: Click Submit button
+[INFO ] [2022-10-01 17:46:13,467] Edit Customer-Step 01: access to alest
+[INFO ] [2022-10-01 17:46:13,502] Edit Customer-Step 01: input To CustomerID textbox with value 28774
+[INFO ] [2022-10-01 17:46:15,211] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 17:46:16,814] Edit Customer-Step 01: Verify Information Address edit Success
+[INFO ] [2022-10-01 17:46:16,901]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:16,901] Edit Customer-Step 01: Verify Information City edit Success
+[INFO ] [2022-10-01 17:46:17,059]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:17,059] Edit Customer-Step 01: Verify Information State edit Success
+[INFO ] [2022-10-01 17:46:17,147]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:17,147] Edit Customer-Step 01: Verify Information Pin edit Success
+[INFO ] [2022-10-01 17:46:17,226]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:17,227] Edit Customer-Step 01: Verify Information Mobile Number edit Success
+[INFO ] [2022-10-01 17:46:17,308]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:17,314] New Account - step 01: Click to New Account Page and Navigate to New Account Page
+[INFO ] [2022-10-01 17:46:18,679] New Account - step 01: Input to CustomerID textbox with value28774
+[INFO ] [2022-10-01 17:46:18,965] New Account - step 01: Select to Account type dropdown with valueCurrent
+[INFO ] [2022-10-01 17:46:19,198] New Account - step 01: Input to Initial deposit textbox with value2000000
+[INFO ] [2022-10-01 17:46:19,401] New Account - step 01: Click to Submit Button
+[INFO ] [2022-10-01 17:46:21,990] New Account - step 01: verify message  create new Account Success with value 'Account Generated Successfully!!!'
+[INFO ] [2022-10-01 17:46:22,051]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:22,052] New Account - step 01: get information AccountID Correct
+[INFO ] [2022-10-01 17:46:22,235] New Account - step 01: verify information CustomerID Correct
+[INFO ] [2022-10-01 17:46:22,325]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:22,325] New Account - step 01: verify information CustomerName Correct
+[INFO ] [2022-10-01 17:46:22,394]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:22,394] New Account - step 01: verify information Email Correct
+[INFO ] [2022-10-01 17:46:22,457]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:22,457] New Account - step 01: verify information AccountType Correct
+[INFO ] [2022-10-01 17:46:22,524]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:22,524] New Account - step 01: verify information CurrentAmount Correct
+[INFO ] [2022-10-01 17:46:22,585]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:22,589] OS name = windows 10
+[INFO ] [2022-10-01 17:46:22,590] Driver instance name = chromedriver: chrome on windows (bb73b2eaead2ae64c6cab3099445e76d)

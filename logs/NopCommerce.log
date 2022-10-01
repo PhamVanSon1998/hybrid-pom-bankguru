@@ -1,0 +1,2045 @@
+[INFO ] [2022-10-01 09:08:14,770] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 09:08:15,106] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 09:08:17,026] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 09:08:17,301] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 09:08:17,501] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 09:08:18,966] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444107
+[INFO ] [2022-10-01 09:08:19,596] Pre-Condition-Step 06: enter to 'password' textbox with value:tAhyjur
+[INFO ] [2022-10-01 09:08:19,842] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 09:08:21,286] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 09:08:21,380]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 09:08:21,406] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 09:08:21,789] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 09:09:11,903] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 09:09:12,252] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 09:09:14,220] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 09:09:14,311] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 09:09:14,515] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 09:09:16,102] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444108
+[INFO ] [2022-10-01 09:09:16,549] Pre-Condition-Step 06: enter to 'password' textbox with value:yqazAdU
+[INFO ] [2022-10-01 09:09:16,841] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 09:09:18,413] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 09:09:18,681]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 09:09:18,703] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 09:09:19,022] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 09:09:21,644]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 09:09:21,644] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 09:09:21,946] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 09:09:22,149] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 09:09:22,376] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 09:09:22,529] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 09:09:22,710] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 09:09:22,899] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 09:09:23,077] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 09:09:23,290] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 09:09:23,539] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 09:09:25,669] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 09:09:25,728]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 09:09:25,728] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 09:09:25,880] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 09:09:25,986]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 09:09:25,986] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 09:09:26,088]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 09:09:26,088] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 09:09:26,150]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 09:09:26,150] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 09:09:26,216]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 09:09:26,217] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 09:09:26,276]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 09:09:26,277] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 09:09:26,338]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 09:09:26,338] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 09:09:26,400]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 09:12:31,477] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 09:12:31,823] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 09:12:33,662] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 09:12:33,788] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 09:12:34,024] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 09:12:35,575] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444114
+[INFO ] [2022-10-01 09:12:35,996] Pre-Condition-Step 06: enter to 'password' textbox with value:bUnYdur
+[INFO ] [2022-10-01 09:12:36,266] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 09:12:37,748] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 09:12:37,840]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 09:12:37,867] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 09:12:38,276] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 09:12:41,859]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 09:12:41,859] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 09:12:42,168] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 09:12:42,406] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 09:12:42,634] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 09:12:42,830] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 09:12:43,022] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 09:12:43,224] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 09:12:43,434] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 09:12:43,673] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 09:12:43,887] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 09:12:45,618] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 09:12:45,685]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 09:12:45,685] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 09:12:45,853] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 09:12:45,946]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 09:12:45,946] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 09:12:46,041]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 09:12:46,041] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 09:12:46,121]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 09:12:46,121] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 09:12:46,197]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 09:12:46,197] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 09:12:46,263]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 09:12:46,263] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 09:12:46,342]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 09:12:46,342] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 09:12:46,441]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:05:11,827] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 10:05:12,227] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 10:05:14,400] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 10:05:14,838] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 10:05:14,946] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 10:05:16,598] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444122
+[INFO ] [2022-10-01 10:05:17,070] Pre-Condition-Step 06: enter to 'password' textbox with value:urehyrU
+[INFO ] [2022-10-01 10:05:17,298] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 10:05:18,798] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 10:05:18,893]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 10:05:18,924] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 10:05:19,383] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 10:05:22,285]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:05:22,285] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 10:05:22,558] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 10:05:22,776] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 10:05:23,002] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 10:05:23,170] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 10:05:23,445] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 10:05:23,677] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 10:05:23,876] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 10:05:24,121] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 10:05:24,335] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 10:05:26,864] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 10:05:26,924]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:05:26,924] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 10:05:27,044] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 10:05:27,137]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:05:27,138] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 10:05:27,249]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:05:27,250] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 10:05:27,331]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:05:27,332] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 10:05:27,392]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:05:27,392] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 10:05:27,472]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:05:27,473] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 10:05:27,564]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:05:27,564] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 10:05:27,652]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:05:27,656] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 10:05:29,755] Edit Customer-Step 01: input To CustomerID textbox with value 57010
+[INFO ] [2022-10-01 10:09:00,443] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 10:09:00,777] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 10:09:03,192] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 10:09:03,823] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 10:09:03,929] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 10:09:05,980] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444123
+[INFO ] [2022-10-01 10:09:06,697] Pre-Condition-Step 06: enter to 'password' textbox with value:EvegEqu
+[INFO ] [2022-10-01 10:09:06,940] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 10:09:09,155] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 10:09:09,342]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 10:09:09,363] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 10:09:09,568] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 10:09:13,717]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:09:13,717] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 10:09:14,074] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 10:09:14,392] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 10:09:14,646] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 10:09:14,854] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 10:09:15,061] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 10:09:15,273] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 10:09:15,461] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 10:09:15,787] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 10:09:16,029] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 10:09:18,795] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 10:09:18,856]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:09:18,857] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 10:09:18,920] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 10:09:18,997]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:09:18,998] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 10:09:19,185]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:09:19,185] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 10:09:19,301]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:09:19,301] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 10:09:19,415]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:09:19,415] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 10:09:19,528]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:09:19,528] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 10:09:19,608]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:09:19,608] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 10:09:19,689]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:09:19,695] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 10:09:22,397] Edit Customer-Step 01: input To CustomerID textbox with value 58777
+[INFO ] [2022-10-01 10:17:41,541] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 10:17:42,244] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 10:18:09,583] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 10:18:10,041] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 10:18:11,898] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 10:18:12,058] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 10:18:12,370] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 10:18:13,909] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444125
+[INFO ] [2022-10-01 10:18:14,329] Pre-Condition-Step 06: enter to 'password' textbox with value:avAjyzu
+[INFO ] [2022-10-01 10:18:14,585] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 10:18:16,197] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 10:18:16,294]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 10:18:16,312] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 10:18:16,759] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 10:18:20,293]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:18:20,293] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 10:18:20,655] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 10:18:20,870] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 10:18:21,140] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 10:18:21,368] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 10:18:21,578] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 10:18:21,767] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 10:18:21,957] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 10:18:22,200] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 10:18:22,420] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 10:18:24,088] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 10:18:24,153]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:18:24,153] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 10:18:24,274] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 10:18:24,367]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:18:24,368] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 10:18:24,477]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:18:24,477] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 10:18:24,559]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:18:24,560] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 10:18:24,635]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:18:24,635] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 10:18:24,694]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:18:24,694] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 10:18:24,759]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:18:24,759] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 10:18:24,845]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:18:24,850] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 10:18:26,202] Edit Customer-Step 01: input To CustomerID textbox with value 71112
+[INFO ] [2022-10-01 10:44:55,023] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 10:44:55,549] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 10:44:57,612] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 10:44:57,822] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 10:44:58,125] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 10:44:59,668] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444128
+[INFO ] [2022-10-01 10:45:00,135] Pre-Condition-Step 06: enter to 'password' textbox with value:regaqUp
+[INFO ] [2022-10-01 10:45:00,372] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 10:45:01,934] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 10:45:02,029]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 10:45:02,060] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 10:45:02,448] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 10:45:05,818]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:45:05,818] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 10:45:06,150] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 10:45:06,396] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 10:45:06,607] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 10:45:06,792] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 10:45:06,970] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 10:45:07,168] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 10:45:07,360] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 10:45:07,594] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 10:45:07,794] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 10:45:09,455] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 10:45:09,527]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:45:09,527] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 10:45:09,662] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 10:45:09,751]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:45:09,752] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 10:45:09,863]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:45:09,863] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 10:45:09,945]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:45:09,945] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 10:45:10,019]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:45:10,019] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 10:45:10,090]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:45:10,090] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 10:45:10,157]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:45:10,157] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 10:45:10,234]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:45:10,240] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 10:45:11,668] Edit Customer-Step 01: input To CustomerID textbox with value 17125
+[INFO ] [2022-10-01 10:48:15,386] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 10:48:16,294] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 10:48:18,038] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 10:48:18,189] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 10:48:18,660] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 10:48:20,189] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444129
+[INFO ] [2022-10-01 10:48:20,684] Pre-Condition-Step 06: enter to 'password' textbox with value:utAtEhY
+[INFO ] [2022-10-01 10:48:20,907] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 10:48:22,379] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 10:48:22,462]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 10:48:22,478] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 10:48:22,873] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 10:48:25,428]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:48:25,429] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 10:48:25,758] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 10:48:25,942] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 10:48:26,144] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 10:48:26,329] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 10:48:26,506] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 10:48:26,712] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 10:48:26,924] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 10:48:27,149] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 10:48:27,444] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 10:48:29,670] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 10:48:29,819]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:48:29,819] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 10:48:29,907] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 10:48:29,993]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:48:29,993] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 10:48:30,056]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:48:30,056] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 10:48:30,120]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:48:30,120] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 10:48:30,181]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:48:30,181] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 10:48:30,242]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:48:30,242] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 10:48:30,304]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:48:30,305] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 10:48:30,371]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:48:30,376] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 10:48:32,090] Edit Customer-Step 01: input To CustomerID textbox with value 24305
+[INFO ] [2022-10-01 10:48:32,135] Edit Customer-Step 01: input To Address textbox with value 145 Quynh Trang Hoang Mai
+[INFO ] [2022-10-01 10:53:46,359] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 10:53:46,812] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 10:53:48,874] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 10:53:48,980] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 10:53:49,183] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 10:53:50,724] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444131
+[INFO ] [2022-10-01 10:53:51,361] Pre-Condition-Step 06: enter to 'password' textbox with value:tAdEvaz
+[INFO ] [2022-10-01 10:53:51,639] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 10:53:53,205] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 10:53:53,495]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 10:53:53,516] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 10:53:53,713] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 10:53:58,307]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:53:58,308] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 10:53:58,664] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 10:53:58,900] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 10:53:59,115] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 10:53:59,303] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 10:53:59,493] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 10:53:59,712] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 10:53:59,897] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 10:54:00,132] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 10:54:00,417] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 10:54:02,221] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 10:54:02,296]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:54:02,296] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 10:54:02,445] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 10:54:02,553]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:54:02,554] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 10:54:02,652]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:54:02,653] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 10:54:02,728]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:54:02,728] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 10:54:02,816]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:54:02,816] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 10:54:02,882]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:54:02,882] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 10:54:02,950]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:54:02,951] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 10:54:03,026]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:54:03,032] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 10:54:04,450] Edit Customer-Step 01: input To CustomerID textbox with value 41937
+[INFO ] [2022-10-01 10:58:31,559] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 10:58:31,890] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 10:58:34,830] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 10:58:34,908] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 10:58:35,177] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 10:58:37,129] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444132
+[INFO ] [2022-10-01 10:58:37,541] Pre-Condition-Step 06: enter to 'password' textbox with value:uhusypu
+[INFO ] [2022-10-01 10:58:37,790] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 10:58:39,264] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 10:58:39,578]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 10:58:39,597] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 10:58:39,805] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 10:58:42,816]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:58:42,816] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 10:58:43,056] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 10:58:43,260] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 10:58:43,468] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 10:58:43,620] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 10:58:43,789] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 10:58:43,963] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 10:58:44,153] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 10:58:44,374] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 10:58:44,605] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 10:58:46,885] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 10:58:46,945]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:58:46,946] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 10:58:47,066] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 10:58:47,180]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:58:47,180] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 10:58:47,260]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:58:47,260] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 10:58:47,322]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:58:47,323] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 10:58:47,385]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:58:47,385] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 10:58:47,451]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:58:47,452] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 10:58:47,512]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:58:47,512] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 10:58:47,579]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 10:58:47,584] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 10:58:49,000] Edit Customer-Step 01: input To CustomerID textbox with value 10582
+[INFO ] [2022-10-01 11:00:00,037] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 11:00:00,464] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 11:00:02,951] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 11:00:03,287] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 11:00:03,391] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 11:00:06,286] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444133
+[INFO ] [2022-10-01 11:00:06,473] Pre-Condition-Step 06: enter to 'password' textbox with value:EqezYqy
+[INFO ] [2022-10-01 11:00:06,800] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 11:00:09,022] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 11:00:09,134]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 11:00:09,170] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 11:00:09,516] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 11:00:14,519]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:00:14,519] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 11:00:14,853] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 11:00:15,053] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 11:00:15,276] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 11:00:15,434] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 11:00:15,655] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 11:00:15,907] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 11:00:16,092] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 11:00:16,321] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 11:00:16,537] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 11:00:18,528] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 11:00:18,600]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:00:18,601] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 11:00:18,669] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 11:00:18,845]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:00:18,846] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 11:00:18,934]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:00:18,934] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 11:00:19,021]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:00:19,022] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 11:00:19,133]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:00:19,133] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 11:00:19,219]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:00:19,220] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 11:00:19,309]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:00:19,309] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 11:00:19,404]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:00:19,411] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 11:00:21,616] Edit Customer-Step 01: input To CustomerID textbox with value 93277
+[INFO ] [2022-10-01 11:02:16,513] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 11:02:16,873] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 11:02:20,081] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 11:02:20,265] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 11:02:20,642] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 11:02:22,972] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444134
+[INFO ] [2022-10-01 11:02:23,596] Pre-Condition-Step 06: enter to 'password' textbox with value:metyhYh
+[INFO ] [2022-10-01 11:02:23,828] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 11:02:25,358] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 11:02:25,484]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 11:02:25,506] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 11:02:25,958] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 11:02:33,660]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:02:33,660] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 11:02:33,999] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 11:02:34,215] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 11:02:34,424] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 11:02:34,590] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 11:02:34,786] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 11:02:34,998] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 11:02:35,179] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 11:02:35,408] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 11:02:35,640] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 11:02:37,497] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 11:02:37,594]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:02:37,594] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 11:02:37,771] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 11:02:37,874]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:02:37,874] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 11:02:37,974]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:02:37,974] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 11:02:38,081]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:02:38,081] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 11:02:38,163]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:02:38,163] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 11:02:38,247]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:02:38,247] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 11:02:38,311]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:02:38,311] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 11:02:38,387]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:02:38,392] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 11:02:40,103] Edit Customer-Step 01: input To CustomerID textbox with value 41752
+[INFO ] [2022-10-01 11:06:54,854] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 11:06:55,418] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 11:06:59,504] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 11:06:59,609] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 11:06:59,852] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 11:07:01,465] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444137
+[INFO ] [2022-10-01 11:07:02,086] Pre-Condition-Step 06: enter to 'password' textbox with value:jAhEbab
+[INFO ] [2022-10-01 11:07:02,452] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 11:07:04,195] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 11:07:04,406]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 11:07:04,423] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 11:07:04,852] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 11:07:07,464]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:07:07,464] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 11:07:07,805] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 11:07:08,068] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 11:07:08,317] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 11:07:08,512] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 11:07:08,712] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 11:07:08,944] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 11:07:09,200] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 11:07:09,472] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 11:07:09,708] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 11:07:12,820] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 11:07:12,906]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:07:12,906] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 11:07:13,093] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 11:07:13,203]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:07:13,203] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 11:07:13,300]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:07:13,301] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 11:07:13,396]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:07:13,396] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 11:07:13,503]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:07:13,503] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 11:07:13,597]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:07:13,597] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 11:07:13,693]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:07:13,693] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 11:07:13,791]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:07:13,797] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 11:07:16,136] Edit Customer-Step 01: input To CustomerID textbox with value 14064
+[INFO ] [2022-10-01 11:08:05,562] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 11:08:06,214] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 11:08:07,816] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 11:08:08,376] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 11:08:08,484] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 11:08:10,008] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444139
+[INFO ] [2022-10-01 11:08:10,602] Pre-Condition-Step 06: enter to 'password' textbox with value:EgyjEsy
+[INFO ] [2022-10-01 11:08:10,820] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 11:08:12,314] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 11:08:12,603]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 11:08:12,628] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 11:08:12,975] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 11:08:15,688]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:08:15,688] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 11:08:16,039] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 11:08:16,257] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 11:08:16,434] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 11:08:16,587] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 11:08:16,767] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 11:08:16,943] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 11:08:17,112] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 11:08:17,322] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 11:08:17,513] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 11:08:19,306] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 11:08:19,388]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:08:19,388] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 11:08:19,540] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 11:08:19,638]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:08:19,639] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 11:08:19,709]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:08:19,709] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 11:08:19,774]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:08:19,774] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 11:08:19,836]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:08:19,836] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 11:08:19,899]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:08:19,900] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 11:08:19,960]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:08:19,960] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 11:08:20,025]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:08:20,030] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 11:08:21,336] Edit Customer-Step 01: input To CustomerID textbox with value 20111
+[INFO ] [2022-10-01 11:09:19,990] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 11:09:21,304] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 11:09:23,138] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 11:09:23,309] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 11:09:23,743] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 11:09:25,238] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444140
+[INFO ] [2022-10-01 11:09:25,638] Pre-Condition-Step 06: enter to 'password' textbox with value:pYpUtEn
+[INFO ] [2022-10-01 11:09:25,845] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 11:09:27,377] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 11:09:27,478]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 11:09:27,498] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 11:09:28,062] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 11:09:30,572]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:09:30,572] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 11:09:30,898] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 11:09:31,081] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 11:09:31,290] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 11:09:31,449] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 11:09:31,626] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 11:09:31,817] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 11:09:32,004] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 11:09:32,229] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 11:09:32,443] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 11:09:34,747] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 11:09:34,808]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:09:34,808] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 11:09:34,928] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 11:09:35,036]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:09:35,037] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 11:09:35,124]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:09:35,124] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 11:09:35,186]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:09:35,186] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 11:09:35,248]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:09:35,249] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 11:09:35,309]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:09:35,310] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 11:09:35,371]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:09:35,371] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 11:09:35,435]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:09:35,441] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 11:09:36,983] Edit Customer-Step 01: input To CustomerID textbox with value 3732
+[INFO ] [2022-10-01 11:15:20,526] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 11:15:21,104] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 11:15:25,523] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 11:15:25,604] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 11:15:25,688] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 11:15:28,104] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444141
+[INFO ] [2022-10-01 11:15:28,575] Pre-Condition-Step 06: enter to 'password' textbox with value:utujUgA
+[INFO ] [2022-10-01 11:15:28,812] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 11:15:30,843] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 11:15:31,210]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 11:15:31,227] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 11:15:31,416] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 11:15:34,336]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:15:34,336] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 11:15:34,683] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 11:15:34,913] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 11:15:35,137] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 11:15:35,317] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 11:15:35,503] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 11:15:35,708] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 11:15:35,907] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 11:15:36,172] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 11:15:36,450] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 11:15:37,516] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 11:15:37,640] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 11:15:40,339] Edit Customer-Step 01: input To CustomerID textbox with value null
+[INFO ] [2022-10-01 11:15:40,581] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 11:15:40,770] Edit Customer-Step 01: input To Address textbox with value 145 Quynh Trang Hoang Mai
+[INFO ] [2022-10-01 11:16:48,135] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 11:16:48,677] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 11:16:51,466] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 11:16:51,612] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 11:16:51,813] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 11:16:53,410] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444142
+[INFO ] [2022-10-01 11:16:54,015] Pre-Condition-Step 06: enter to 'password' textbox with value:nyhYzUd
+[INFO ] [2022-10-01 11:16:54,392] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 11:16:55,907] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 11:16:56,001]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 11:16:56,038] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 11:16:56,471] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 11:17:00,080]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:17:00,080] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 11:17:00,407] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 11:17:00,653] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 11:17:00,873] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 11:17:01,032] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 11:17:01,247] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 11:17:01,520] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 11:17:01,740] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 11:17:01,992] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 11:17:02,196] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 11:17:04,714] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 11:17:04,798]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:17:04,798] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 11:17:05,008] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 11:17:05,113]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:17:05,113] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 11:17:05,208]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:17:05,208] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 11:17:05,318]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:17:05,318] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 11:17:05,421]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:17:05,422] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 11:17:05,529]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:17:05,529] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 11:17:05,625]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:17:05,625] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 11:17:05,721]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:17:05,727] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 11:17:07,620] Edit Customer-Step 01: input To CustomerID textbox with value 48650
+[INFO ] [2022-10-01 11:17:07,850] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 11:17:09,308] Edit Customer-Step 01: input To Address textbox with value 145 Quynh Trang Hoang Mai
+[INFO ] [2022-10-01 11:22:11,341] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 11:22:11,689] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 11:22:13,651] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 11:22:13,953] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 11:22:14,059] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 11:22:16,207] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444143
+[INFO ] [2022-10-01 11:22:16,686] Pre-Condition-Step 06: enter to 'password' textbox with value:gEvygAs
+[INFO ] [2022-10-01 11:22:16,967] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 11:22:18,994] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 11:22:19,091]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 11:22:19,126] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 11:22:20,670] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 11:22:20,779]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:22:20,779] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 11:22:21,191] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 11:22:21,436] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 11:22:21,729] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 11:22:21,934] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 11:22:22,120] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 11:22:22,319] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 11:22:22,535] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 11:22:22,768] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 11:22:22,966] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 11:22:25,949] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 11:22:26,057]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:22:26,057] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 11:22:26,221] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 11:22:26,322]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:22:26,322] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 11:22:26,435]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:22:26,435] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 11:22:26,574]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:22:26,574] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 11:22:26,674]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:22:26,675] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 11:22:26,803]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:22:26,803] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 11:22:26,906]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:22:26,906] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 11:22:26,998]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:22:27,003] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 11:22:27,266] Edit Customer-Step 01: input To CustomerID textbox with value 38187
+[INFO ] [2022-10-01 11:22:30,343] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 11:22:31,970] Edit Customer-Step 01: input To Address textbox with value 145 Quynh Trang Hoang Mai
+[INFO ] [2022-10-01 11:27:59,663] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 11:28:00,330] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 11:28:04,099] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 11:28:05,112] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 11:28:05,220] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 11:28:07,631] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444144
+[INFO ] [2022-10-01 11:28:08,204] Pre-Condition-Step 06: enter to 'password' textbox with value:ujysyma
+[INFO ] [2022-10-01 11:28:08,548] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 11:28:10,355] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 11:28:10,854]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 11:28:10,873] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 11:28:11,073] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 11:28:14,667]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:28:14,667] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 11:28:14,927] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 11:28:15,171] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 11:28:15,443] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 11:28:15,851] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 11:28:16,093] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 11:28:16,340] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 11:28:16,580] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 11:28:16,864] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 11:28:17,128] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 11:28:19,337] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 11:28:19,492]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:28:19,492] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 11:28:19,602] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 11:28:19,710]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:28:19,710] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 11:28:19,820]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:28:19,820] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 11:28:19,924]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:28:19,925] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 11:28:20,032]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:28:20,032] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 11:28:20,137]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:28:20,138] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 11:28:20,249]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:28:20,249] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 11:28:20,357]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:28:20,362] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 11:28:22,521] Edit Customer-Step 01: input To CustomerID textbox with value 84466
+[INFO ] [2022-10-01 11:28:22,861] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 11:28:24,419] Edit Customer-Step 01: input To Address textbox with value 145 Quynh Trang Hoang Mai
+[INFO ] [2022-10-01 11:28:24,792] Edit Customer-Step 01: input To City textbox with value Viet Tri
+[INFO ] [2022-10-01 11:28:25,029] Edit Customer-Step 01: input To State textbox with value PhanThuy
+[INFO ] [2022-10-01 11:28:25,280] Edit Customer-Step 01: input To Pin textbox with value 654321
+[INFO ] [2022-10-01 11:28:25,518] Edit Customer-Step 01: Click Submit button
+[INFO ] [2022-10-01 11:28:26,493] Edit Customer-Step 01: Verify meddage displays with content'Customer details updated Successfully'
+[INFO ] [2022-10-01 11:29:34,367] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 11:29:35,051] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 11:29:37,192] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 11:29:37,377] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 11:29:37,911] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 11:29:39,569] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444145
+[INFO ] [2022-10-01 11:29:39,976] Pre-Condition-Step 06: enter to 'password' textbox with value:tUzunEz
+[INFO ] [2022-10-01 11:29:40,212] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 11:29:41,752] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 11:29:42,054]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 11:29:42,079] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 11:29:42,295] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 11:29:45,372]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:29:45,372] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 11:29:45,720] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 11:29:45,955] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 11:29:46,163] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 11:29:46,346] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 11:29:46,543] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 11:29:46,768] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 11:29:46,962] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 11:29:47,225] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 11:29:47,496] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 11:29:49,626] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 11:29:49,691]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:29:49,691] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 11:29:49,845] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 11:29:49,938]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:29:49,938] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 11:29:50,053]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:29:50,053] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 11:29:50,132]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:29:50,132] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 11:29:50,214]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:29:50,214] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 11:29:50,307]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:29:50,307] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 11:29:50,400]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:29:50,401] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 11:29:50,497]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 11:29:50,503] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 11:29:51,830] Edit Customer-Step 01: input To CustomerID textbox with value 57910
+[INFO ] [2022-10-01 11:29:52,085] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 11:29:53,597] Edit Customer-Step 01: input To Address textbox with value 145 Quynh Trang Hoang Mai
+[INFO ] [2022-10-01 11:29:53,874] Edit Customer-Step 01: input To City textbox with value Viet Tri
+[INFO ] [2022-10-01 11:29:54,126] Edit Customer-Step 01: input To State textbox with value PhanThuy
+[INFO ] [2022-10-01 11:29:54,312] Edit Customer-Step 01: input To Pin textbox with value 654321
+[INFO ] [2022-10-01 11:29:54,483] Edit Customer-Step 01: Click Submit button
+[INFO ] [2022-10-01 15:15:27,936] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 15:15:28,529] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 15:15:31,335] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 15:15:31,478] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 15:15:31,919] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 15:15:34,706] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444165
+[INFO ] [2022-10-01 15:15:35,142] Pre-Condition-Step 06: enter to 'password' textbox with value:yjYdyqE
+[INFO ] [2022-10-01 15:15:35,422] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 15:15:37,848] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 15:15:38,459]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 15:15:38,485] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 15:15:39,121] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 15:15:43,404]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:15:43,405] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 15:15:43,855] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 15:15:44,123] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 15:15:44,386] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 15:15:44,559] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 15:15:44,786] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 15:15:45,032] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 15:15:45,247] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 15:15:45,542] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 15:15:45,752] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 15:15:47,637] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 15:15:47,725]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:15:47,726] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 15:15:47,868] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 15:15:47,974]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:15:47,974] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 15:15:48,091]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:15:48,092] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 15:15:48,195]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:15:48,196] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 15:15:48,270]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:15:48,270] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 15:15:48,330]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:15:48,330] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 15:15:48,396]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:15:48,397] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 15:15:48,457]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:15:48,461] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 15:15:49,860] Edit Customer-Step 01: input To CustomerID textbox with value 77233
+[INFO ] [2022-10-01 15:15:50,164] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 15:15:51,846] Edit Customer-Step 01: input To Address textbox with value 145 Quynh Trang Hoang Mai
+[INFO ] [2022-10-01 15:15:52,115] Edit Customer-Step 01: input To City textbox with value Viet Tri
+[INFO ] [2022-10-01 15:15:52,324] Edit Customer-Step 01: input To State textbox with value PhanThuy
+[INFO ] [2022-10-01 15:15:52,550] Edit Customer-Step 01: input To Pin textbox with value 654321
+[INFO ] [2022-10-01 15:15:52,726] Edit Customer-Step 01: Click Submit button
+[INFO ] [2022-10-01 15:47:13,289] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 15:47:13,860] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 15:47:16,057] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 15:47:16,184] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 15:47:16,522] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 15:47:18,010] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444172
+[INFO ] [2022-10-01 15:47:18,676] Pre-Condition-Step 06: enter to 'password' textbox with value:mAjAtah
+[INFO ] [2022-10-01 15:47:18,920] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 15:47:20,552] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 15:47:21,067]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 15:47:21,086] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 15:47:21,275] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 15:47:28,463]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:47:28,463] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 15:47:28,953] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 15:47:29,177] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 15:47:29,393] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 15:47:29,575] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 15:47:29,758] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 15:47:29,980] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 15:47:30,164] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 15:47:30,468] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 15:47:30,692] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 15:47:32,337] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 15:47:32,398]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:47:32,398] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 15:47:32,534] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 15:47:32,627]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:47:32,628] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 15:47:32,721]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:47:32,722] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 15:47:32,805]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:47:32,805] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 15:47:32,868]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:47:32,868] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 15:47:32,973]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:47:32,973] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 15:47:33,051]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:47:33,051] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 15:47:33,117]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:47:33,122] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 15:47:34,561] Edit Customer-Step 01: input To CustomerID textbox with value 73269
+[INFO ] [2022-10-01 15:47:34,859] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 15:47:36,946] Edit Customer-Step 01: input To Address textbox with value 145 Quynh Trang Hoang Mai
+[INFO ] [2022-10-01 15:47:37,235] Edit Customer-Step 01: input To City textbox with value Viet Tri
+[INFO ] [2022-10-01 15:47:37,441] Edit Customer-Step 01: input To State textbox with value PhanThuy
+[INFO ] [2022-10-01 15:47:37,644] Edit Customer-Step 01: input To Pin textbox with value 654321
+[INFO ] [2022-10-01 15:47:37,829] Edit Customer-Step 01: Click Submit button
+[INFO ] [2022-10-01 15:47:38,985] Edit Customer-Step 01: access to alest
+[INFO ] [2022-10-01 15:48:19,154] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 15:48:19,669] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 15:48:22,198] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 15:48:22,300] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 15:48:22,635] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 15:48:24,781] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444173
+[INFO ] [2022-10-01 15:48:25,130] Pre-Condition-Step 06: enter to 'password' textbox with value:YbehugY
+[INFO ] [2022-10-01 15:48:25,365] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 15:48:26,746] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 15:48:26,874]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 15:48:26,889] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 15:48:28,045] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 15:48:28,389]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:48:28,389] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 15:48:28,696] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 15:48:28,891] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 15:48:29,112] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 15:48:29,300] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 15:48:29,462] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 15:48:29,675] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 15:48:29,867] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 15:48:30,112] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 15:48:30,318] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 15:48:32,390] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 15:48:32,718]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:48:32,718] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 15:48:32,831] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 15:48:32,942]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:48:32,942] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 15:48:33,008]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:48:33,008] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 15:48:33,075]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:48:33,076] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 15:48:33,149]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:48:33,150] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 15:48:33,227]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:48:33,228] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 15:48:33,295]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:48:33,295] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 15:48:33,375]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 15:48:33,380] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 15:48:33,551] Edit Customer-Step 01: input To CustomerID textbox with value 55347
+[INFO ] [2022-10-01 15:48:37,227] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 15:48:39,081] Edit Customer-Step 01: input To Address textbox with value 145 Quynh Trang Hoang Mai
+[INFO ] [2022-10-01 15:48:39,337] Edit Customer-Step 01: input To City textbox with value Viet Tri
+[INFO ] [2022-10-01 15:48:39,545] Edit Customer-Step 01: input To State textbox with value PhanThuy
+[INFO ] [2022-10-01 15:48:39,726] Edit Customer-Step 01: input To Pin textbox with value 654321
+[INFO ] [2022-10-01 15:48:39,913] Edit Customer-Step 01: Click Submit button
+[INFO ] [2022-10-01 15:48:40,389] Edit Customer-Step 01: access to alest
+[INFO ] [2022-10-01 15:51:56,993] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 15:51:57,283] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 15:51:59,142] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 15:51:59,591] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 15:51:59,843] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 15:52:01,202] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444174
+[INFO ] [2022-10-01 15:52:01,865] Pre-Condition-Step 06: enter to 'password' textbox with value:UpenubE
+[INFO ] [2022-10-01 15:52:02,096] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 15:52:03,539] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 15:52:03,815]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 15:52:03,837] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 15:52:04,100] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 15:52:34,238] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 15:56:37,275] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 15:56:37,630] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 15:56:39,997] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 15:56:40,463] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 15:56:40,567] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 15:56:42,305] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444175
+[INFO ] [2022-10-01 15:56:42,884] Pre-Condition-Step 06: enter to 'password' textbox with value:quvUtUb
+[INFO ] [2022-10-01 15:56:43,108] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 15:56:44,507] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 15:56:44,587]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 15:56:44,601] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 15:57:46,109] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 15:57:46,272] Edit Customer-Step 01: input To CustomerID textbox with value null
+[INFO ] [2022-10-01 15:59:44,607] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 15:59:45,326] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 15:59:47,261] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 15:59:47,348] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 15:59:47,527] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 15:59:49,316] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444179
+[INFO ] [2022-10-01 15:59:49,779] Pre-Condition-Step 06: enter to 'password' textbox with value:Ejujydy
+[INFO ] [2022-10-01 15:59:50,012] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 15:59:51,531] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 15:59:51,621]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 15:59:51,658] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 16:00:52,299] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 16:01:59,896] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 16:02:00,617] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 16:02:02,706] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 16:02:02,977] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 16:02:03,191] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 16:02:04,940] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444180
+[INFO ] [2022-10-01 16:02:05,126] Pre-Condition-Step 06: enter to 'password' textbox with value:rebyqUm
+[INFO ] [2022-10-01 16:02:05,538] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 16:02:07,291] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 16:02:07,787]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 16:02:07,806] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 16:03:08,169] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 16:04:11,984] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 16:04:12,293] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 16:04:14,500] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 16:04:14,583] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 16:04:14,855] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 16:04:16,501] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444181
+[INFO ] [2022-10-01 16:04:16,981] Pre-Condition-Step 06: enter to 'password' textbox with value:qyqydEn
+[INFO ] [2022-10-01 16:04:17,218] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 16:04:18,883] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 16:04:19,229]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 16:04:19,246] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 16:04:55,193] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 16:04:56,515] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 16:04:56,818] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 16:04:58,274] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 16:04:58,354] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 16:04:58,661] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 16:05:00,108] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444182
+[INFO ] [2022-10-01 16:05:00,779] Pre-Condition-Step 06: enter to 'password' textbox with value:zYhujYt
+[INFO ] [2022-10-01 16:05:01,022] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 16:05:02,623] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 16:05:03,054]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 16:05:03,071] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 16:05:03,293] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 16:05:05,811]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:05:05,812] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 16:05:06,127] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 16:05:06,365] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 16:05:06,600] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 16:05:06,810] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 16:05:07,007] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 16:05:07,223] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 16:05:07,438] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 16:05:07,802] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 16:05:08,107] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 16:05:10,253] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 16:05:10,320]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:05:10,320] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 16:05:10,518] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 16:05:10,613]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:05:10,614] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 16:05:10,678]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:05:10,678] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 16:05:10,758]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:05:10,759] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 16:05:10,858]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:05:10,858] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 16:05:10,951]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:05:10,951] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 16:05:11,022]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:05:11,023] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 16:05:11,098]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:05:11,103] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 16:05:12,435] Edit Customer-Step 01: input To CustomerID textbox with value 41737
+[INFO ] [2022-10-01 16:05:12,677] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 16:05:14,420] Edit Customer-Step 01: input To Address textbox with value 145 Quynh Trang Hoang Mai
+[INFO ] [2022-10-01 16:05:14,732] Edit Customer-Step 01: input To City textbox with value Viet Tri
+[INFO ] [2022-10-01 16:05:14,933] Edit Customer-Step 01: input To State textbox with value PhanThuy
+[INFO ] [2022-10-01 16:05:15,136] Edit Customer-Step 01: input To Pin textbox with value 654321
+[INFO ] [2022-10-01 16:05:15,317] Edit Customer-Step 01: Click Submit button
+[INFO ] [2022-10-01 16:05:16,288] Edit Customer-Step 01: access to alest
+[INFO ] [2022-10-01 16:13:11,549] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 16:13:11,947] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 16:13:14,079] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 16:13:14,402] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 16:13:14,499] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 16:13:27,973] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444184
+[INFO ] [2022-10-01 16:13:40,646] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 16:13:41,173] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 16:13:43,198] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 16:13:43,531] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 16:13:43,763] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 16:13:45,256] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444185
+[INFO ] [2022-10-01 16:13:45,650] Pre-Condition-Step 06: enter to 'password' textbox with value:EnErUde
+[INFO ] [2022-10-01 16:13:45,962] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 16:13:47,550] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 16:13:47,643]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 16:13:47,656] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 16:13:48,401] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 16:14:19,461]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:14:19,462] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 16:14:19,781] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 16:14:20,000] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 16:14:20,217] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 16:14:20,395] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 16:14:20,595] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 16:14:20,804] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 16:14:20,988] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 16:14:21,220] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 16:14:21,436] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 16:14:23,276] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 16:14:23,341]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:14:23,342] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 16:14:23,475] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 16:14:23,580]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:14:23,580] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 16:14:23,651]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:14:23,651] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 16:14:23,715]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:14:23,716] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 16:14:23,779]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:14:23,779] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 16:14:23,840]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:14:23,840] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 16:14:23,921]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:14:23,921] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 16:14:23,985]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:14:23,993] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 16:14:25,362] Edit Customer-Step 01: input To CustomerID textbox with value 13142
+[INFO ] [2022-10-01 16:14:25,566] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 16:14:27,051] Edit Customer-Step 01: input To Address textbox with value 145 Quynh Trang Hoang Mai
+[INFO ] [2022-10-01 16:14:27,329] Edit Customer-Step 01: input To City textbox with value Viet Tri
+[INFO ] [2022-10-01 16:14:27,516] Edit Customer-Step 01: input To State textbox with value PhanThuy
+[INFO ] [2022-10-01 16:14:27,731] Edit Customer-Step 01: input To Pin textbox with value 654321
+[INFO ] [2022-10-01 16:14:27,925] Edit Customer-Step 01: Click Submit button
+[INFO ] [2022-10-01 16:14:29,187] Edit Customer-Step 01: access to alest
+[INFO ] [2022-10-01 16:15:09,063] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 16:15:09,629] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 16:15:12,563] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 16:15:12,664] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 16:15:12,768] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 16:15:15,036] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444186
+[INFO ] [2022-10-01 16:15:15,364] Pre-Condition-Step 06: enter to 'password' textbox with value:YdAjyqY
+[INFO ] [2022-10-01 16:15:15,588] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 16:15:17,707] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 16:15:17,913]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 16:15:17,934] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 16:15:18,133] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 16:15:20,742]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:15:20,742] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 16:15:21,053] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 16:15:21,247] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 16:15:21,452] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 16:15:21,616] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 16:15:21,808] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 16:15:21,995] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 16:15:22,175] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 16:15:22,387] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 16:15:22,599] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 16:15:24,892] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 16:15:24,969]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:15:24,969] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 16:15:25,113] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 16:15:25,201]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:15:25,201] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 16:15:25,304]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:15:25,304] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 16:15:25,378]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:15:25,379] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 16:15:25,443]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:15:25,443] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 16:15:25,511]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:15:25,512] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 16:15:25,583]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:15:25,583] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 16:15:25,647]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:15:25,652] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 16:15:26,930] Edit Customer-Step 01: input To CustomerID textbox with value 36630
+[INFO ] [2022-10-01 16:15:27,166] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 16:15:28,624] Edit Customer-Step 01: input To Address textbox with value 145 Quynh Trang Hoang Mai
+[INFO ] [2022-10-01 16:15:28,899] Edit Customer-Step 01: input To City textbox with value Viet Tri
+[INFO ] [2022-10-01 16:15:29,113] Edit Customer-Step 01: input To State textbox with value PhanThuy
+[INFO ] [2022-10-01 16:15:29,406] Edit Customer-Step 01: input To Pin textbox with value 654321
+[INFO ] [2022-10-01 16:15:29,620] Edit Customer-Step 01: Click Submit button
+[INFO ] [2022-10-01 16:15:30,681] Edit Customer-Step 01: access to alest
+[INFO ] [2022-10-01 16:19:30,429] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 16:19:31,545] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 16:19:33,871] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 16:19:34,024] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 16:19:34,365] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 16:20:04,510] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 16:20:04,946] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 16:20:38,590] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 16:20:39,140] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 16:20:41,314] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 16:20:41,837] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 16:20:41,948] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 16:20:43,899] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444189
+[INFO ] [2022-10-01 16:20:44,217] Pre-Condition-Step 06: enter to 'password' textbox with value:agyhemY
+[INFO ] [2022-10-01 16:20:44,401] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 16:20:45,990] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 16:20:46,159]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 16:20:46,187] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 16:20:46,606] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 16:21:00,532]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:21:00,532] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 16:21:00,956] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 16:21:01,177] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 16:21:01,386] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 16:21:01,588] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 16:21:01,775] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 16:21:01,969] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 16:21:02,185] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 16:21:02,564] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 16:21:02,795] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 16:21:04,693] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 16:21:04,751]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:21:04,751] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 16:21:04,869] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 16:21:04,985]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:21:04,985] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 16:21:05,091]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:21:05,091] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 16:21:05,165]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:21:05,165] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 16:21:05,243]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:21:05,244] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 16:21:05,306]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:21:05,307] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 16:21:05,397]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:21:05,397] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 16:21:05,490]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:21:05,496] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 16:21:07,038] Edit Customer-Step 01: input To CustomerID textbox with value 84586
+[INFO ] [2022-10-01 16:21:07,288] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 16:21:08,920] Edit Customer-Step 01: input To Address textbox with value 145 Quynh Trang Hoang Mai
+[INFO ] [2022-10-01 16:21:09,138] Edit Customer-Step 01: input To City textbox with value Viet Tri
+[INFO ] [2022-10-01 16:21:09,332] Edit Customer-Step 01: input To State textbox with value PhanThuy
+[INFO ] [2022-10-01 16:21:09,500] Edit Customer-Step 01: input To Pin textbox with value 654321
+[INFO ] [2022-10-01 16:21:09,682] Edit Customer-Step 01: Click Submit button
+[INFO ] [2022-10-01 16:21:11,332] Edit Customer-Step 01: access to alest
+[INFO ] [2022-10-01 16:21:11,351] Edit Customer-Step 01: input To CustomerID textbox with value 84586
+[INFO ] [2022-10-01 16:21:12,714] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 16:21:14,126] Edit Customer-Step 01: Verify Information Address edit Success
+[INFO ] [2022-10-01 16:21:14,237]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:21:14,237] Edit Customer-Step 01: Verify Information City edit Success
+[INFO ] [2022-10-01 16:21:14,303]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:21:14,304] Edit Customer-Step 01: Verify Information State edit Success
+[INFO ] [2022-10-01 16:21:14,365]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:21:14,366] Edit Customer-Step 01: Verify Information Pin edit Success
+[INFO ] [2022-10-01 16:21:14,443]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:21:14,443] Edit Customer-Step 01: Verify Information Mobile Number edit Success
+[INFO ] [2022-10-01 16:21:14,504]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 16:22:59,950] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 16:23:01,286] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 16:23:03,554] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 16:23:03,680] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 16:23:03,937] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 16:23:05,619] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444190
+[INFO ] [2022-10-01 16:23:06,078] Pre-Condition-Step 06: enter to 'password' textbox with value:qymAjUq
+[INFO ] [2022-10-01 16:23:06,322] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 16:23:07,796] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 16:23:08,001]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 16:23:08,021] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 16:23:08,316] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 16:23:10,986]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:23:10,986] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 16:23:11,280] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 16:23:11,494] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 16:23:11,695] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 16:23:11,859] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 16:23:12,037] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 16:23:12,211] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 16:23:12,397] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 16:23:12,650] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 16:23:12,853] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 16:23:14,992] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 16:23:15,063]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:23:15,063] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 16:23:15,210] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 16:23:15,293]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:23:15,294] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 16:23:15,362]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:23:15,362] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 16:23:15,422]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:23:15,422] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 16:23:15,483]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:23:15,483] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 16:23:15,549]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:23:15,550] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 16:23:15,609]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:23:15,609] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 16:23:15,697]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:23:15,702] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 16:23:17,106] Edit Customer-Step 01: input To CustomerID textbox with value 51852
+[INFO ] [2022-10-01 16:23:17,336] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 16:23:18,726] Edit Customer-Step 01: input To Address textbox with value 145 Quynh Trang Hoang Mai
+[INFO ] [2022-10-01 16:23:18,978] Edit Customer-Step 01: input To City textbox with value Viet Tri
+[INFO ] [2022-10-01 16:23:19,177] Edit Customer-Step 01: input To State textbox with value PhanThuy
+[INFO ] [2022-10-01 16:23:19,345] Edit Customer-Step 01: input To Pin textbox with value 654321
+[INFO ] [2022-10-01 16:23:19,530] Edit Customer-Step 01: input To Mobile textbox with value 654321
+[INFO ] [2022-10-01 16:23:19,712] Edit Customer-Step 01: Click Submit button
+[INFO ] [2022-10-01 16:23:20,935] Edit Customer-Step 01: access to alest
+[INFO ] [2022-10-01 16:23:20,950] Edit Customer-Step 01: input To CustomerID textbox with value 51852
+[INFO ] [2022-10-01 16:23:22,141] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 16:23:23,521] Edit Customer-Step 01: Verify Information Address edit Success
+[INFO ] [2022-10-01 16:23:23,683]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:23:23,684] Edit Customer-Step 01: Verify Information City edit Success
+[INFO ] [2022-10-01 16:23:23,750]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:23:23,750] Edit Customer-Step 01: Verify Information State edit Success
+[INFO ] [2022-10-01 16:23:23,812]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:23:23,813] Edit Customer-Step 01: Verify Information Pin edit Success
+[INFO ] [2022-10-01 16:23:23,889]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:23:23,889] Edit Customer-Step 01: Verify Information Mobile Number edit Success
+[INFO ] [2022-10-01 16:23:23,951]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:55:29,392] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 16:55:29,731] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 16:55:31,592] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 16:55:32,185] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 16:55:32,296] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 16:55:33,963] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444193
+[INFO ] [2022-10-01 16:55:34,444] Pre-Condition-Step 06: enter to 'password' textbox with value:ypUqAqY
+[INFO ] [2022-10-01 16:55:34,668] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 16:55:36,132] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 16:55:36,303]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 16:55:36,324] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 16:55:36,749] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 16:55:39,480]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:55:39,480] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 16:55:39,848] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 16:55:40,044] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 16:55:40,282] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 16:55:40,672] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 16:55:40,940] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 16:55:41,225] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 16:55:41,525] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 16:55:41,750] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 16:55:41,965] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 16:55:44,065] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 16:55:44,141]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:55:44,141] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 16:55:44,288] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 16:55:44,398]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:55:44,399] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 16:55:44,473]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:55:44,473] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 16:55:44,537]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:55:44,537] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 16:55:44,598]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:55:44,598] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 16:55:44,660]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:55:44,660] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 16:55:44,721]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:55:44,721] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 16:55:44,784]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:55:44,789] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 16:55:46,201] Edit Customer-Step 01: input To CustomerID textbox with value 88921
+[INFO ] [2022-10-01 16:55:46,465] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 16:55:47,943] Edit Customer-Step 01: input To Address textbox with value 145 Quynh Trang Hoang Mai
+[INFO ] [2022-10-01 16:55:48,250] Edit Customer-Step 01: input To City textbox with value Viet Tri
+[INFO ] [2022-10-01 16:55:48,432] Edit Customer-Step 01: input To State textbox with value PhanThuy
+[INFO ] [2022-10-01 16:55:48,619] Edit Customer-Step 01: input To Pin textbox with value 654321
+[INFO ] [2022-10-01 16:55:48,790] Edit Customer-Step 01: input To Mobile textbox with value 654321
+[INFO ] [2022-10-01 16:55:48,988] Edit Customer-Step 01: Click Submit button
+[INFO ] [2022-10-01 16:55:49,990] Edit Customer-Step 01: access to alest
+[INFO ] [2022-10-01 16:55:50,008] Edit Customer-Step 01: input To CustomerID textbox with value 88921
+[INFO ] [2022-10-01 16:55:51,292] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 16:55:52,675] Edit Customer-Step 01: Verify Information Address edit Success
+[INFO ] [2022-10-01 16:55:52,744]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:55:52,744] Edit Customer-Step 01: Verify Information City edit Success
+[INFO ] [2022-10-01 16:55:52,854]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:55:52,854] Edit Customer-Step 01: Verify Information State edit Success
+[INFO ] [2022-10-01 16:55:52,917]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:55:52,918] Edit Customer-Step 01: Verify Information Pin edit Success
+[INFO ] [2022-10-01 16:55:52,978]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:55:52,978] Edit Customer-Step 01: Verify Information Mobile Number edit Success
+[INFO ] [2022-10-01 16:55:53,041]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:55:53,046] New Account - step 01: Click to New Account Page and Navigate to New Account Page
+[INFO ] [2022-10-01 16:57:18,042] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 16:57:18,640] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 16:57:21,334] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 16:57:21,438] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 16:57:21,749] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 16:57:24,148] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444194
+[INFO ] [2022-10-01 16:57:24,538] Pre-Condition-Step 06: enter to 'password' textbox with value:jUzYtYb
+[INFO ] [2022-10-01 16:57:24,790] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 16:57:26,701] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 16:57:26,964]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 16:57:26,981] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 16:57:59,291] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 16:57:59,721] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 16:58:02,854] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 16:58:02,943] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 16:58:03,132] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 16:58:05,089] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444195
+[INFO ] [2022-10-01 16:58:05,467] Pre-Condition-Step 06: enter to 'password' textbox with value:EzEqyhU
+[INFO ] [2022-10-01 16:58:05,900] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 16:58:07,412] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 16:58:07,520]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 16:58:07,534] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 16:58:08,005] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 16:58:10,693]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:58:10,693] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 16:58:10,861] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 16:58:11,047] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 16:58:11,252] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 16:58:11,430] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 16:58:11,611] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 16:58:11,808] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 16:58:12,002] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 16:58:12,219] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 16:58:12,421] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 16:58:14,553] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 16:58:14,626]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:58:14,627] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 16:58:14,828] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 16:58:14,921]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:58:14,921] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 16:58:14,993]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:58:14,994] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 16:58:15,079]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:58:15,080] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 16:58:15,145]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:58:15,145] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 16:58:15,232]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:58:15,233] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 16:58:15,305]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:58:15,305] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 16:58:15,388]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:58:15,392] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 16:58:16,653] Edit Customer-Step 01: input To CustomerID textbox with value 29258
+[INFO ] [2022-10-01 16:58:16,907] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 16:58:18,355] Edit Customer-Step 01: input To Address textbox with value 145 Quynh Trang Hoang Mai
+[INFO ] [2022-10-01 16:58:18,602] Edit Customer-Step 01: input To City textbox with value Viet Tri
+[INFO ] [2022-10-01 16:58:18,784] Edit Customer-Step 01: input To State textbox with value PhanThuy
+[INFO ] [2022-10-01 16:58:18,954] Edit Customer-Step 01: input To Pin textbox with value 654321
+[INFO ] [2022-10-01 16:58:19,126] Edit Customer-Step 01: input To Mobile textbox with value 654321
+[INFO ] [2022-10-01 16:58:19,314] Edit Customer-Step 01: Click Submit button
+[INFO ] [2022-10-01 16:58:20,554] Edit Customer-Step 01: access to alest
+[INFO ] [2022-10-01 16:58:20,592] Edit Customer-Step 01: input To CustomerID textbox with value 29258
+[INFO ] [2022-10-01 16:58:21,738] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 16:58:23,109] Edit Customer-Step 01: Verify Information Address edit Success
+[INFO ] [2022-10-01 16:58:23,183]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:58:23,183] Edit Customer-Step 01: Verify Information City edit Success
+[INFO ] [2022-10-01 16:58:23,290]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:58:23,290] Edit Customer-Step 01: Verify Information State edit Success
+[INFO ] [2022-10-01 16:58:23,353]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:58:23,353] Edit Customer-Step 01: Verify Information Pin edit Success
+[INFO ] [2022-10-01 16:58:23,430]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:58:23,430] Edit Customer-Step 01: Verify Information Mobile Number edit Success
+[INFO ] [2022-10-01 16:58:23,491]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 16:58:23,495] New Account - step 01: Click to New Account Page and Navigate to New Account Page
+[INFO ] [2022-10-01 16:58:24,678] New Account - step 01: Input to CustomerID textbox with value29258
+[INFO ] [2022-10-01 17:00:58,097] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 17:00:58,656] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 17:01:00,428] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 17:01:00,951] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 17:01:01,066] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 17:01:02,537] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444196
+[INFO ] [2022-10-01 17:01:03,124] Pre-Condition-Step 06: enter to 'password' textbox with value:vypYgab
+[INFO ] [2022-10-01 17:01:03,372] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 17:01:04,917] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 17:01:05,004]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 17:01:05,018] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 17:01:05,617] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 17:01:13,937]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:01:13,938] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 17:01:14,311] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 17:01:14,553] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 17:01:14,784] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 17:01:14,982] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 17:01:15,197] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 17:01:15,440] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 17:01:15,704] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 17:01:16,030] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 17:01:16,259] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 17:01:18,071] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 17:01:18,145]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:01:18,145] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 17:01:18,267] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 17:01:18,384]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:01:18,384] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 17:01:18,475]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:01:18,475] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 17:01:18,576]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:01:18,576] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 17:01:18,670]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:01:18,671] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 17:01:18,765]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:01:18,765] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 17:01:18,859]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:01:18,859] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 17:01:18,981]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:01:18,988] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 17:01:21,384] Edit Customer-Step 01: input To CustomerID textbox with value 79580
+[INFO ] [2022-10-01 17:01:21,712] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 17:01:23,412] Edit Customer-Step 01: input To Address textbox with value 145 Quynh Trang Hoang Mai
+[INFO ] [2022-10-01 17:01:23,712] Edit Customer-Step 01: input To City textbox with value Viet Tri
+[INFO ] [2022-10-01 17:01:23,971] Edit Customer-Step 01: input To State textbox with value PhanThuy
+[INFO ] [2022-10-01 17:01:24,199] Edit Customer-Step 01: input To Pin textbox with value 654321
+[INFO ] [2022-10-01 17:01:24,402] Edit Customer-Step 01: input To Mobile textbox with value 654321
+[INFO ] [2022-10-01 17:01:24,614] Edit Customer-Step 01: Click Submit button
+[INFO ] [2022-10-01 17:01:25,748] Edit Customer-Step 01: access to alest
+[INFO ] [2022-10-01 17:01:25,776] Edit Customer-Step 01: input To CustomerID textbox with value 79580
+[INFO ] [2022-10-01 17:01:27,313] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 17:01:28,847] Edit Customer-Step 01: Verify Information Address edit Success
+[INFO ] [2022-10-01 17:01:28,942]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:01:28,942] Edit Customer-Step 01: Verify Information City edit Success
+[INFO ] [2022-10-01 17:01:29,068]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:01:29,068] Edit Customer-Step 01: Verify Information State edit Success
+[INFO ] [2022-10-01 17:01:29,143]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:01:29,144] Edit Customer-Step 01: Verify Information Pin edit Success
+[INFO ] [2022-10-01 17:01:29,220]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:01:29,220] Edit Customer-Step 01: Verify Information Mobile Number edit Success
+[INFO ] [2022-10-01 17:01:29,312]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:01:29,317] New Account - step 01: Click to New Account Page and Navigate to New Account Page
+[INFO ] [2022-10-01 17:01:30,544] New Account - step 01: Input to CustomerID textbox with value79580
+[INFO ] [2022-10-01 17:04:25,725] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 17:04:26,776] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 17:04:28,407] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 17:04:28,684] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 17:04:28,791] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 17:04:30,218] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444198
+[INFO ] [2022-10-01 17:04:31,096] Pre-Condition-Step 06: enter to 'password' textbox with value:jEqupAg
+[INFO ] [2022-10-01 17:04:31,311] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 17:04:32,887] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 17:04:33,256]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 17:04:33,275] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 17:04:33,476] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 17:04:36,575]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:04:36,575] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 17:04:36,886] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 17:04:37,061] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 17:04:37,279] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 17:04:37,444] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 17:04:37,619] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 17:04:37,799] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 17:04:37,986] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 17:04:38,199] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 17:04:38,408] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 17:04:40,517] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 17:04:40,635]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:04:40,635] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 17:04:40,722] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 17:04:40,823]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:04:40,824] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 17:04:40,910]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:04:40,911] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 17:04:41,008]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:04:41,008] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 17:04:41,074]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:04:41,075] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 17:04:41,141]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:04:41,142] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 17:04:41,203]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:04:41,203] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 17:04:41,270]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:04:41,276] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 17:04:42,543] Edit Customer-Step 01: input To CustomerID textbox with value 19239
+[INFO ] [2022-10-01 17:04:42,778] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 17:04:44,190] Edit Customer-Step 01: input To Address textbox with value 145 Quynh Trang Hoang Mai
+[INFO ] [2022-10-01 17:04:44,480] Edit Customer-Step 01: input To City textbox with value Viet Tri
+[INFO ] [2022-10-01 17:04:44,662] Edit Customer-Step 01: input To State textbox with value PhanThuy
+[INFO ] [2022-10-01 17:04:44,836] Edit Customer-Step 01: input To Pin textbox with value 654321
+[INFO ] [2022-10-01 17:04:45,008] Edit Customer-Step 01: input To Mobile textbox with value 654321
+[INFO ] [2022-10-01 17:04:45,208] Edit Customer-Step 01: Click Submit button
+[INFO ] [2022-10-01 17:04:46,335] Edit Customer-Step 01: access to alest
+[INFO ] [2022-10-01 17:04:46,346] Edit Customer-Step 01: input To CustomerID textbox with value 19239
+[INFO ] [2022-10-01 17:04:47,473] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 17:04:48,834] Edit Customer-Step 01: Verify Information Address edit Success
+[INFO ] [2022-10-01 17:04:49,024]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:04:49,024] Edit Customer-Step 01: Verify Information City edit Success
+[INFO ] [2022-10-01 17:04:49,087]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:04:49,087] Edit Customer-Step 01: Verify Information State edit Success
+[INFO ] [2022-10-01 17:04:49,144]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:04:49,144] Edit Customer-Step 01: Verify Information Pin edit Success
+[INFO ] [2022-10-01 17:04:49,208]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:04:49,208] Edit Customer-Step 01: Verify Information Mobile Number edit Success
+[INFO ] [2022-10-01 17:04:49,271]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:04:49,274] New Account - step 01: Click to New Account Page and Navigate to New Account Page
+[INFO ] [2022-10-01 17:04:50,338] New Account - step 01: Input to CustomerID textbox with value19239
+[INFO ] [2022-10-01 17:04:50,580] New Account - step 01: Select to Account type dropdown with valueCurrent
+[INFO ] [2022-10-01 17:04:50,740] New Account - step 01: Input to Initial deposit textbox with value2000000000
+[INFO ] [2022-10-01 17:04:50,900] New Account - step 01: Click to Submit Button
+[INFO ] [2022-10-01 17:29:06,593] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 17:29:07,085] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 17:29:10,354] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 17:29:10,453] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 17:29:10,530] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 17:29:19,706] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444199
+[INFO ] [2022-10-01 17:29:33,641] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 17:29:35,340] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 17:29:38,267] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 17:29:38,688] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 17:29:38,865] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 17:29:41,035] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444200
+[INFO ] [2022-10-01 17:29:41,364] Pre-Condition-Step 06: enter to 'password' textbox with value:YdyzedY
+[INFO ] [2022-10-01 17:29:41,591] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 17:29:43,057] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 17:29:43,225]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 17:29:43,243] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 17:29:43,590] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 17:29:46,279]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:29:46,279] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 17:29:46,539] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 17:29:46,721] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 17:29:46,915] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 17:29:47,088] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 17:29:47,267] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 17:29:47,444] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 17:29:47,632] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 17:29:47,851] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 17:29:48,065] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 17:29:50,198] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 17:29:50,264]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:29:50,264] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 17:29:50,384] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 17:29:50,481]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:29:50,481] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 17:29:50,564]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:29:50,564] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 17:29:50,626]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:29:50,626] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 17:29:50,688]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:29:50,689] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 17:29:50,752]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:29:50,752] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 17:29:50,814]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:29:50,815] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 17:29:50,894]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:29:50,900] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 17:29:52,235] Edit Customer-Step 01: input To CustomerID textbox with value 94029
+[INFO ] [2022-10-01 17:29:52,481] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 17:29:53,889] Edit Customer-Step 01: input To Address textbox with value 145 Quynh Trang Hoang Mai
+[INFO ] [2022-10-01 17:29:54,189] Edit Customer-Step 01: input To City textbox with value Viet Tri
+[INFO ] [2022-10-01 17:29:54,366] Edit Customer-Step 01: input To State textbox with value PhanThuy
+[INFO ] [2022-10-01 17:29:54,544] Edit Customer-Step 01: input To Pin textbox with value 654321
+[INFO ] [2022-10-01 17:29:54,713] Edit Customer-Step 01: input To Mobile textbox with value 654321
+[INFO ] [2022-10-01 17:29:54,912] Edit Customer-Step 01: Click Submit button
+[INFO ] [2022-10-01 17:29:56,073] Edit Customer-Step 01: access to alest
+[INFO ] [2022-10-01 17:29:56,097] Edit Customer-Step 01: input To CustomerID textbox with value 94029
+[INFO ] [2022-10-01 17:29:57,236] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 17:29:58,735] Edit Customer-Step 01: Verify Information Address edit Success
+[INFO ] [2022-10-01 17:29:58,827]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:29:58,827] Edit Customer-Step 01: Verify Information City edit Success
+[INFO ] [2022-10-01 17:29:58,904]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:29:58,904] Edit Customer-Step 01: Verify Information State edit Success
+[INFO ] [2022-10-01 17:29:59,014]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:29:59,014] Edit Customer-Step 01: Verify Information Pin edit Success
+[INFO ] [2022-10-01 17:29:59,078]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:29:59,078] Edit Customer-Step 01: Verify Information Mobile Number edit Success
+[INFO ] [2022-10-01 17:29:59,138]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:29:59,142] New Account - step 01: Click to New Account Page and Navigate to New Account Page
+[INFO ] [2022-10-01 17:30:00,244] New Account - step 01: Input to CustomerID textbox with value94029
+[INFO ] [2022-10-01 17:30:00,536] New Account - step 01: Select to Account type dropdown with valueCurrent
+[INFO ] [2022-10-01 17:30:00,697] New Account - step 01: Input to Initial deposit textbox with value2000000000
+[INFO ] [2022-10-01 17:30:00,861] New Account - step 01: Click to Submit Button
+[INFO ] [2022-10-01 17:30:02,699] New Account - step 01: verify message  create new Account Success with value 'Account Generated Successfully!!!'
+[INFO ] [2022-10-01 17:30:02,784]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:30:02,784] New Account - step 01: get information AccountID Correct
+[INFO ] [2022-10-01 17:30:02,925] New Account - step 01: verify information CustomerID Correct
+[INFO ] [2022-10-01 17:30:02,986]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 17:30:02,986] New Account - step 01: verify information CustomerName Correct
+[INFO ] [2022-10-01 17:30:03,049]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 17:30:03,049] New Account - step 01: verify information Email Correct
+[INFO ] [2022-10-01 17:30:03,108]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 17:30:03,109] New Account - step 01: verify information AccountType Correct
+[INFO ] [2022-10-01 17:30:03,187]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 17:30:03,187] New Account - step 01: verify information CurrentAmount Correct
+[INFO ] [2022-10-01 17:30:03,250]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 17:32:12,786] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 17:32:13,299] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 17:32:15,056] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 17:32:15,184] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 17:32:15,702] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 17:32:17,289] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444201
+[INFO ] [2022-10-01 17:32:17,910] Pre-Condition-Step 06: enter to 'password' textbox with value:jYqAjYs
+[INFO ] [2022-10-01 17:32:18,248] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 17:32:19,870] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 17:32:20,276]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 17:32:20,299] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 17:32:20,604] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 17:32:23,553]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:32:23,554] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 17:32:23,865] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 17:32:24,104] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 17:32:24,367] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 17:32:24,555] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 17:32:24,754] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 17:32:24,956] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 17:32:25,178] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 17:32:25,448] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 17:32:25,684] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 17:32:26,634] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 17:32:26,734] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 17:32:29,189] Edit Customer-Step 01: input To CustomerID textbox with value null
+[INFO ] [2022-10-01 17:32:29,472] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 17:32:29,629] Edit Customer-Step 01: input To Address textbox with value 145 Quynh Trang Hoang Mai
+[INFO ] [2022-10-01 17:32:29,715] New Account - step 01: Click to New Account Page and Navigate to New Account Page
+[INFO ] [2022-10-01 17:32:30,919] New Account - step 01: Input to CustomerID textbox with valuenull
+[INFO ] [2022-10-01 17:32:31,232] New Account - step 01: Select to Account type dropdown with valueCurrent
+[INFO ] [2022-10-01 17:32:31,446] New Account - step 01: Input to Initial deposit textbox with value2000000000
+[INFO ] [2022-10-01 17:32:31,706] New Account - step 01: Click to Submit Button
+[INFO ] [2022-10-01 17:32:31,861] New Account - step 01: verify message  create new Account Success with value 'Account Generated Successfully!!!'
+[INFO ] [2022-10-01 17:32:59,090] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 17:32:59,607] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 17:33:01,619] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 17:33:01,717] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 17:33:01,894] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 17:33:03,684] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444202
+[INFO ] [2022-10-01 17:33:04,275] Pre-Condition-Step 06: enter to 'password' textbox with value:yvEzAge
+[INFO ] [2022-10-01 17:33:04,537] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 17:33:06,090] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 17:33:06,310]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 17:33:06,329] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 17:33:06,664] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 17:33:09,607]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:33:09,607] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 17:33:09,937] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 17:33:10,121] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 17:33:10,329] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 17:33:10,494] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 17:33:10,689] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 17:33:10,867] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 17:33:11,105] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 17:33:11,359] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 17:33:11,571] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 17:33:13,740] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 17:33:13,821]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:33:13,822] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 17:33:13,952] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 17:33:14,066]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:33:14,066] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 17:33:14,134]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:33:14,134] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 17:33:14,195]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:33:14,195] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 17:33:14,272]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:33:14,273] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 17:33:14,333]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:33:14,334] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 17:33:14,397]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:33:14,397] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 17:33:14,462]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:33:14,467] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 17:33:16,164] Edit Customer-Step 01: input To CustomerID textbox with value 90169
+[INFO ] [2022-10-01 17:33:16,456] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 17:33:17,845] Edit Customer-Step 01: input To Address textbox with value 145 Quynh Trang Hoang Mai
+[INFO ] [2022-10-01 17:33:18,115] Edit Customer-Step 01: input To City textbox with value Viet Tri
+[INFO ] [2022-10-01 17:33:18,304] Edit Customer-Step 01: input To State textbox with value PhanThuy
+[INFO ] [2022-10-01 17:33:18,473] Edit Customer-Step 01: input To Pin textbox with value 654321
+[INFO ] [2022-10-01 17:33:18,648] Edit Customer-Step 01: input To Mobile textbox with value 654321
+[INFO ] [2022-10-01 17:33:18,823] Edit Customer-Step 01: Click Submit button
+[INFO ] [2022-10-01 17:33:20,064] Edit Customer-Step 01: access to alest
+[INFO ] [2022-10-01 17:33:20,085] Edit Customer-Step 01: input To CustomerID textbox with value 90169
+[INFO ] [2022-10-01 17:33:21,445] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 17:33:22,898] Edit Customer-Step 01: Verify Information Address edit Success
+[INFO ] [2022-10-01 17:33:22,972]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:33:22,973] Edit Customer-Step 01: Verify Information City edit Success
+[INFO ] [2022-10-01 17:33:23,059]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:33:23,059] Edit Customer-Step 01: Verify Information State edit Success
+[INFO ] [2022-10-01 17:33:23,139]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:33:23,140] Edit Customer-Step 01: Verify Information Pin edit Success
+[INFO ] [2022-10-01 17:33:23,202]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:33:23,202] Edit Customer-Step 01: Verify Information Mobile Number edit Success
+[INFO ] [2022-10-01 17:33:23,276]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:33:23,280] New Account - step 01: Click to New Account Page and Navigate to New Account Page
+[INFO ] [2022-10-01 17:33:24,461] New Account - step 01: Input to CustomerID textbox with value90169
+[INFO ] [2022-10-01 17:33:24,711] New Account - step 01: Select to Account type dropdown with valueCurrent
+[INFO ] [2022-10-01 17:33:24,889] New Account - step 01: Input to Initial deposit textbox with value2000000000
+[INFO ] [2022-10-01 17:33:25,052] New Account - step 01: Click to Submit Button
+[INFO ] [2022-10-01 17:33:26,758] New Account - step 01: verify message  create new Account Success with value 'Account Generated Successfully!!!'
+[INFO ] [2022-10-01 17:33:26,844]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:33:26,845] New Account - step 01: get information AccountID Correct
+[INFO ] [2022-10-01 17:33:26,966] New Account - step 01: verify information CustomerID Correct
+[INFO ] [2022-10-01 17:33:27,036]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:33:27,037] New Account - step 01: verify information CustomerName Correct
+[INFO ] [2022-10-01 17:33:27,115]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:33:27,115] New Account - step 01: verify information Email Correct
+[INFO ] [2022-10-01 17:33:27,186]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:33:27,186] New Account - step 01: verify information AccountType Correct
+[INFO ] [2022-10-01 17:33:27,251]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:33:27,252] New Account - step 01: verify information CurrentAmount Correct
+[INFO ] [2022-10-01 17:33:27,330]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 17:34:45,490] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 17:34:45,787] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 17:34:48,348] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 17:34:48,547] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 17:34:48,655] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 17:34:50,244] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444203
+[INFO ] [2022-10-01 17:34:50,549] Pre-Condition-Step 06: enter to 'password' textbox with value:jAgyvUb
+[INFO ] [2022-10-01 17:34:50,931] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 17:34:52,375] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 17:34:52,564]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 17:34:52,584] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 17:34:52,925] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 17:34:55,517]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:34:55,517] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 17:34:55,859] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 17:34:56,036] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 17:34:56,252] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 17:34:56,419] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 17:34:56,577] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 17:34:56,788] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 17:34:56,963] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 17:34:57,183] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 17:34:57,380] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 17:34:59,530] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 17:34:59,683]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:34:59,683] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 17:34:59,782] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 17:34:59,880]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:34:59,880] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 17:34:59,943]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:34:59,944] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 17:35:00,007]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:35:00,008] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 17:35:00,083]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:35:00,083] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 17:35:00,146]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:35:00,146] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 17:35:00,206]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:35:00,206] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 17:35:00,270]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:35:00,275] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 17:35:01,679] Edit Customer-Step 01: input To CustomerID textbox with value 94148
+[INFO ] [2022-10-01 17:35:01,914] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 17:35:03,246] Edit Customer-Step 01: input To Address textbox with value 145 Quynh Trang Hoang Mai
+[INFO ] [2022-10-01 17:35:03,506] Edit Customer-Step 01: input To City textbox with value Viet Tri
+[INFO ] [2022-10-01 17:35:03,681] Edit Customer-Step 01: input To State textbox with value PhanThuy
+[INFO ] [2022-10-01 17:35:03,850] Edit Customer-Step 01: input To Pin textbox with value 654321
+[INFO ] [2022-10-01 17:35:04,024] Edit Customer-Step 01: input To Mobile textbox with value 654321
+[INFO ] [2022-10-01 17:35:04,223] Edit Customer-Step 01: Click Submit button
+[INFO ] [2022-10-01 17:35:04,691] Edit Customer-Step 01: access to alest
+[INFO ] [2022-10-01 17:35:04,700] Edit Customer-Step 01: input To CustomerID textbox with value 94148
+[INFO ] [2022-10-01 17:35:05,943] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 17:35:07,295] Edit Customer-Step 01: Verify Information Address edit Success
+[INFO ] [2022-10-01 17:35:07,356]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:35:07,357] Edit Customer-Step 01: Verify Information City edit Success
+[INFO ] [2022-10-01 17:35:07,466]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:35:07,467] Edit Customer-Step 01: Verify Information State edit Success
+[INFO ] [2022-10-01 17:35:07,526]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:35:07,527] Edit Customer-Step 01: Verify Information Pin edit Success
+[INFO ] [2022-10-01 17:35:07,599]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:35:07,600] Edit Customer-Step 01: Verify Information Mobile Number edit Success
+[INFO ] [2022-10-01 17:35:07,662]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:35:07,665] New Account - step 01: Click to New Account Page and Navigate to New Account Page
+[INFO ] [2022-10-01 17:35:08,715] New Account - step 01: Input to CustomerID textbox with value94148
+[INFO ] [2022-10-01 17:35:08,976] New Account - step 01: Select to Account type dropdown with valueCurrent
+[INFO ] [2022-10-01 17:35:09,137] New Account - step 01: Input to Initial deposit textbox with value2000000
+[INFO ] [2022-10-01 17:35:09,306] New Account - step 01: Click to Submit Button
+[INFO ] [2022-10-01 17:35:10,975] New Account - step 01: verify message  create new Account Success with value 'Account Generated Successfully!!!'
+[INFO ] [2022-10-01 17:35:11,127]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:35:11,128] New Account - step 01: get information AccountID Correct
+[INFO ] [2022-10-01 17:35:11,241] New Account - step 01: verify information CustomerID Correct
+[INFO ] [2022-10-01 17:35:11,314]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:35:11,314] New Account - step 01: verify information CustomerName Correct
+[INFO ] [2022-10-01 17:35:11,372]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:35:11,372] New Account - step 01: verify information Email Correct
+[INFO ] [2022-10-01 17:35:11,430]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:35:11,430] New Account - step 01: verify information AccountType Correct
+[INFO ] [2022-10-01 17:35:11,496]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:35:11,496] New Account - step 01: verify information CurrentAmount Correct
+[INFO ] [2022-10-01 17:35:11,558]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:35:26,889] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 17:35:27,321] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 17:35:29,142] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 17:35:29,245] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 17:35:29,556] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 17:35:31,037] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444205
+[INFO ] [2022-10-01 17:35:31,457] Pre-Condition-Step 06: enter to 'password' textbox with value:avUhAjA
+[INFO ] [2022-10-01 17:35:31,710] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 17:35:33,686] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 17:35:33,871]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 17:35:33,890] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 17:35:34,252] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 17:36:04,616] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 17:36:05,867] New Account - step 01: Click to New Account Page and Navigate to New Account Page
+[INFO ] [2022-10-01 17:36:33,905] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 17:36:34,197] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 17:36:36,121] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 17:36:36,294] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 17:36:36,697] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 17:36:38,663] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444206
+[INFO ] [2022-10-01 17:36:39,040] Pre-Condition-Step 06: enter to 'password' textbox with value:rApAsUp
+[INFO ] [2022-10-01 17:36:39,293] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 17:36:40,886] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 17:36:41,213]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 17:36:41,236] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 17:37:11,651] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 17:37:13,331] New Account - step 01: Click to New Account Page and Navigate to New Account Page
+[INFO ] [2022-10-01 17:39:00,623] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 17:39:01,143] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 17:39:03,757] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 17:39:03,950] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 17:39:04,059] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 17:39:05,643] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444207
+[INFO ] [2022-10-01 17:39:06,128] Pre-Condition-Step 06: enter to 'password' textbox with value:Agajeze
+[INFO ] [2022-10-01 17:39:06,473] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 17:39:08,019] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 17:39:08,336]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 17:39:08,361] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 17:39:49,279] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 17:39:49,861] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 17:39:52,051] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 17:39:52,165] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 17:39:52,696] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 17:39:54,153] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444208
+[INFO ] [2022-10-01 17:39:54,839] Pre-Condition-Step 06: enter to 'password' textbox with value:hyvavys
+[INFO ] [2022-10-01 17:39:55,057] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 17:39:57,320] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 17:39:57,567]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 17:39:57,590] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 17:40:25,355] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 17:40:25,741] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 17:40:27,652] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 17:40:27,738] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 17:40:28,155] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 17:40:29,625] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444210
+[INFO ] [2022-10-01 17:40:29,906] Pre-Condition-Step 06: enter to 'password' textbox with value:EmYhAvU
+[INFO ] [2022-10-01 17:40:30,202] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 17:40:31,865] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 17:40:31,949]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 17:40:31,978] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 17:41:02,508] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 17:41:03,706] New Account - step 01: Click to New Account Page and Navigate to New Account Page
+[INFO ] [2022-10-01 17:41:43,810] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 17:41:44,657] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 17:41:48,162] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 17:41:48,465] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 17:41:48,580] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 17:41:51,493] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444211
+[INFO ] [2022-10-01 17:41:51,821] Pre-Condition-Step 06: enter to 'password' textbox with value:pudYgYs
+[INFO ] [2022-10-01 17:41:52,029] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 17:41:54,750] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 17:41:55,289]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 17:41:55,309] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 17:42:25,678] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 17:42:26,912] New Account - step 01: Click to New Account Page and Navigate to New Account Page
+[INFO ] [2022-10-01 17:45:06,638] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 17:45:07,594] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 17:45:09,262] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 17:45:09,420] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 17:45:09,994] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 17:45:11,453] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444212
+[INFO ] [2022-10-01 17:45:11,867] Pre-Condition-Step 06: enter to 'password' textbox with value:UvUjudu
+[INFO ] [2022-10-01 17:45:12,113] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 17:45:13,737] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 17:45:13,962]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 17:45:13,982] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 17:45:14,174] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 17:45:17,536]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:45:17,536] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 17:45:17,865] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 17:45:18,091] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 17:45:18,299] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 17:45:18,487] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 17:45:18,695] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 17:45:18,885] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 17:45:19,060] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 17:45:19,294] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 17:45:19,531] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 17:45:20,474] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 17:45:20,550] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 17:45:22,616] Edit Customer-Step 01: input To CustomerID textbox with value null
+[INFO ] [2022-10-01 17:45:22,903] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 17:45:23,085] Edit Customer-Step 01: input To Address textbox with value 145 Quynh Trang Hoang Mai
+[INFO ] [2022-10-01 17:45:23,141] New Account - step 01: Click to New Account Page and Navigate to New Account Page
+[INFO ] [2022-10-01 17:45:24,382] New Account - step 01: Input to CustomerID textbox with valuenull
+[INFO ] [2022-10-01 17:45:24,634] New Account - step 01: Select to Account type dropdown with valueCurrent
+[INFO ] [2022-10-01 17:45:24,820] New Account - step 01: Input to Initial deposit textbox with value2000000
+[INFO ] [2022-10-01 17:45:25,008] New Account - step 01: Click to Submit Button
+[INFO ] [2022-10-01 17:45:25,133] New Account - step 01: verify message  create new Account Success with value 'Account Generated Successfully!!!'
+[INFO ] [2022-10-01 17:45:25,150] OS name = windows 10
+[INFO ] [2022-10-01 17:45:25,150] Driver instance name = chromedriver: chrome on windows (a63f01ecebde905b8707d63d20dd74b3)
+[INFO ] [2022-10-01 17:45:45,499] Pre-Condition-Step 01: enter to 'Email' address to get access to demo site
+[INFO ] [2022-10-01 17:45:47,373] Pre-Condition-Step 02: click to 'Submit' button
+[INFO ] [2022-10-01 17:45:50,038] Pre-Condition-Step 03: get 'UserID' 
+[INFO ] [2022-10-01 17:45:50,646] Pre-Condition-Step 04: get 'PassWord' 
+[INFO ] [2022-10-01 17:45:50,889] Pre-Condition-Step 05: input and search link 
+[INFO ] [2022-10-01 17:45:53,288] Pre-Condition-Step 06: enter to 'userID' textbox with value:mngr444213
+[INFO ] [2022-10-01 17:45:53,697] Pre-Condition-Step 06: enter to 'password' textbox with value:Egaryqu
+[INFO ] [2022-10-01 17:45:54,111] Pre-Condition-Step 06: click to 'Login' button
+[INFO ] [2022-10-01 17:45:55,717] Pre-Condition-Step 07: Verify 'Login' Page Success
+[INFO ] [2022-10-01 17:45:56,162]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-01 17:45:56,184] New Customer-Step 01: Click new customer link at menusubnav and navigate to Add New Customer Page
+[INFO ] [2022-10-01 17:45:56,436] New Customer-Step 02: Verify navigate to Add New Customer Page Success
+[INFO ] [2022-10-01 17:46:01,621]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:01,621] New Customer-Step 03: enter to Customer Name 
+[INFO ] [2022-10-01 17:46:02,028] New Customer-Step 04: enter to Date of Birth 
+[INFO ] [2022-10-01 17:46:02,279] New Customer-Step 05: enter to Address area
+[INFO ] [2022-10-01 17:46:02,580] New Customer-Step 06: enter to City textbox
+[INFO ] [2022-10-01 17:46:02,803] New Customer-Step 07: enter to State textbox
+[INFO ] [2022-10-01 17:46:03,004] New Customer-Step 08: enter to PIN textbox
+[INFO ] [2022-10-01 17:46:03,234] New Customer-Step 09: enter to Telephone Number
+[INFO ] [2022-10-01 17:46:03,427] New Customer-Step 10: enter to Email textbox
+[INFO ] [2022-10-01 17:46:03,662] New Customer-Step 11: enter to Password textbox
+[INFO ] [2022-10-01 17:46:03,874] New Customer-Step 12: click to Submit button
+[INFO ] [2022-10-01 17:46:05,532] New Customer-Step 13: Verify message displays with content 'Customer Registed Successfully!!!'
+[INFO ] [2022-10-01 17:46:05,635]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:05,635] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 17:46:06,012] New Customer-Step 14: Verify CustomerName
+[INFO ] [2022-10-01 17:46:06,112]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:06,113] New Customer-Step 16: Verify Address
+[INFO ] [2022-10-01 17:46:06,225]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:06,225] New Customer-Step 17: Verify City
+[INFO ] [2022-10-01 17:46:06,334]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:06,334] New Customer-Step 18: Verify State
+[INFO ] [2022-10-01 17:46:06,421]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:06,421] New Customer-Step 19: Verify Pin
+[INFO ] [2022-10-01 17:46:06,528]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:06,528] New Customer-Step 21: Verify Mobile
+[INFO ] [2022-10-01 17:46:06,615]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:06,615] New Customer-Step 22: Verify Email
+[INFO ] [2022-10-01 17:46:06,711]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:06,717] Edit Customer-Step 01: Click edit Customer link at menusubnav and navigate to Edit Customer Page
+[INFO ] [2022-10-01 17:46:08,982] Edit Customer-Step 01: input To CustomerID textbox with value 28774
+[INFO ] [2022-10-01 17:46:09,218] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 17:46:10,702] Edit Customer-Step 01: input To Address textbox with value 145 Quynh Trang Hoang Mai
+[INFO ] [2022-10-01 17:46:11,093] Edit Customer-Step 01: input To City textbox with value Viet Tri
+[INFO ] [2022-10-01 17:46:11,410] Edit Customer-Step 01: input To State textbox with value PhanThuy
+[INFO ] [2022-10-01 17:46:11,686] Edit Customer-Step 01: input To Pin textbox with value 654321
+[INFO ] [2022-10-01 17:46:11,986] Edit Customer-Step 01: input To Mobile textbox with value 654321
+[INFO ] [2022-10-01 17:46:12,252] Edit Customer-Step 01: Click Submit button
+[INFO ] [2022-10-01 17:46:13,467] Edit Customer-Step 01: access to alest
+[INFO ] [2022-10-01 17:46:13,502] Edit Customer-Step 01: input To CustomerID textbox with value 28774
+[INFO ] [2022-10-01 17:46:15,211] Edit Customer-Step 01: Click Submit button to login edit page
+[INFO ] [2022-10-01 17:46:16,814] Edit Customer-Step 01: Verify Information Address edit Success
+[INFO ] [2022-10-01 17:46:16,901]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:16,901] Edit Customer-Step 01: Verify Information City edit Success
+[INFO ] [2022-10-01 17:46:17,059]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:17,059] Edit Customer-Step 01: Verify Information State edit Success
+[INFO ] [2022-10-01 17:46:17,147]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:17,147] Edit Customer-Step 01: Verify Information Pin edit Success
+[INFO ] [2022-10-01 17:46:17,226]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:17,227] Edit Customer-Step 01: Verify Information Mobile Number edit Success
+[INFO ] [2022-10-01 17:46:17,308]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:17,314] New Account - step 01: Click to New Account Page and Navigate to New Account Page
+[INFO ] [2022-10-01 17:46:18,679] New Account - step 01: Input to CustomerID textbox with value28774
+[INFO ] [2022-10-01 17:46:18,965] New Account - step 01: Select to Account type dropdown with valueCurrent
+[INFO ] [2022-10-01 17:46:19,198] New Account - step 01: Input to Initial deposit textbox with value2000000
+[INFO ] [2022-10-01 17:46:19,401] New Account - step 01: Click to Submit Button
+[INFO ] [2022-10-01 17:46:21,990] New Account - step 01: verify message  create new Account Success with value 'Account Generated Successfully!!!'
+[INFO ] [2022-10-01 17:46:22,051]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:22,052] New Account - step 01: get information AccountID Correct
+[INFO ] [2022-10-01 17:46:22,235] New Account - step 01: verify information CustomerID Correct
+[INFO ] [2022-10-01 17:46:22,325]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:22,325] New Account - step 01: verify information CustomerName Correct
+[INFO ] [2022-10-01 17:46:22,394]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:22,394] New Account - step 01: verify information Email Correct
+[INFO ] [2022-10-01 17:46:22,457]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:22,457] New Account - step 01: verify information AccountType Correct
+[INFO ] [2022-10-01 17:46:22,524]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:22,524] New Account - step 01: verify information CurrentAmount Correct
+[INFO ] [2022-10-01 17:46:22,585]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-01 17:46:22,589] OS name = windows 10
+[INFO ] [2022-10-01 17:46:22,590] Driver instance name = chromedriver: chrome on windows (bb73b2eaead2ae64c6cab3099445e76d)

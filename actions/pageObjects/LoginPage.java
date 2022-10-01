@@ -32,9 +32,12 @@ public class LoginPage extends AbtractPage{
 		return getElementText(driver, LoginPageUI.PASSWORD);
 	}
 
-	public void clickToNavbarLink(String navbarLink) {
-		waitToElementClickable(driver, LoginPageUI.NAVBAR_LINK,navbarLink);
-		clickToElement(driver,LoginPageUI.NAVBAR_LINK,navbarLink);
+//	public void clickToNavbarLink(String navbarLink) {
+//		waitToElementClickable(driver, LoginPageUI.NAVBAR_LINK,navbarLink);
+//		clickToElement(driver,LoginPageUI.NAVBAR_LINK,navbarLink);
+//	}
+	public void inputToEnviromentLink(String EnviromentLink) {
+		driver.get(EnviromentLink);
 	}
 
 	public void enterUserIDTextbox(String userIDTextbox) {
@@ -50,6 +53,11 @@ public class LoginPage extends AbtractPage{
 	public void clickToLoginButton() {
 		waitToElementClickable(driver, LoginPageUI.LOGIN_BUTTON);
 		clickToElement(driver,LoginPageUI.LOGIN_BUTTON);
+	}
+
+	public String isMessageLoginSuccess() {
+		waitToElementVisible(driver, LoginPageUI.MESSAGE_LOGIN_SUCCESS);
+		return getElementText(driver, LoginPageUI.MESSAGE_LOGIN_SUCCESS);
 	}
 
 }

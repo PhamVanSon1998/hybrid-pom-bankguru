@@ -135,9 +135,16 @@ public class AbtractPage {
 		getElement(driver, getDynamicLocator(Locator, values)).click();
 	}
 	
-
+	
 	public void senKeysToElement(WebDriver driver, String Locator, String value) {
 		element = getElement(driver, Locator);
+		element.clear();
+		element.sendKeys(value);
+	}
+	
+
+	public void senKeysToElement(WebDriver driver, String Locator, String value,String... values) {
+		element = getElement(driver, getDynamicLocator(Locator, values));
 		element.clear();
 		element.sendKeys(value);
 	}
